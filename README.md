@@ -1,3 +1,1 @@
-# 30-days-of-code-hackerrank
-# 30-days-of-code-hackerrank
-# 30-days-of-code-hackerrank
+It's The My Coding Journey
